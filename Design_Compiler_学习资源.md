@@ -56,30 +56,26 @@
 - Synopsys 官方手册，覆盖 HDL-to-gate 综合全流程
 - 适合从入门到进阶的所有阶段
 
-### 8. 一位高手写的 DC 手册
-- 地址：https://gitcode.com/open-source-toolkit/30ea3/wiki
-- 基础操作 + 高级技巧 + 实战案例
-
-### 9. DC 综合 Demo 脚本（GitHub）
+### 8. DC 综合 Demo 脚本（GitHub）
 - 地址：https://github.com/Giftwen/DC_script
 - 完整可运行的 DC 综合脚本，包括：
   - SynFlow.tcl
   - Sdc.tcl
   - main2.py
 
-### 10. 完整低功耗 ASIC 流程（2026版）
+### 9. 完整低功耗 ASIC 流程（2026版）
 - 地址：https://z.shaonianxue.cn/40843.html
 - RTL → GDSII 全流程，使用 2025-2026 Synopsys 工具链
 - 包含真实的 DC 脚本：compile_ultra -gate_clock -low_power
 
-### 11. DC 环境配置深入指南
+### 10. DC 环境配置深入指南
 - 地址：https://deepwiki.com/akommini/Network-on-Chip-Router/3.1-setup-and-configuration
 - .synopsys_dc.setup 引导流程
 - setup.tcl 变量说明
 - run_synth.tcl 编排脚本
 - 库路径配置
 
-### 12. 韩国崇实大学短期课程（2026年1月）
+### 11. 韩国崇实大学短期课程（2026年1月）
 - 地址：https://www.disu.ac.kr/community/notice?md=down&bbsidx=8479&fileidx=9795
 - 3天密集课程："Logic Synthesis with Design Compiler"
 - 前提：Verilog-HDL, Digital Logic Design
@@ -103,7 +99,7 @@
 第7步：理解报告分析
        → report_timing, report_area, report_constraint
 第8步：编写自动化 Tcl 脚本
-第9步：跑资源9的 Demo 脚本，亲手实践
+第9步：跑资源8的 Demo 脚本，亲手实践
 ```
 
 ---
